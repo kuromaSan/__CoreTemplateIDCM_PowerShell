@@ -1,20 +1,16 @@
-# Document
+# ドキュメント
 
-## 概要
+## 企画内容
 
 テンプレートドキュメント
 
-## フォルダ一覧
+## 企画実装
 
-[L00_Schema](./L00_Schema/README.md)  
-[L01_Variable](./L01_Variable/README.md)  
-[L02_Function](./L02_Function/README.md)  
-[L03_Interface](./L03_Interface/README.md)  
+[実装名](./__Todo/README.md)  
 
-## スクリプト一覧
+## 企画構想
 
-[Crafter](./Crafter/README.md)  
-[Model](./Model/README.md)  
+[構想名](./__Schema/README.md)  
 
 ---
 [Back](../README.md)
